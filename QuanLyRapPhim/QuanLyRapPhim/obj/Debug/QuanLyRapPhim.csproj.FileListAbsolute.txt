@@ -50,3 +50,9 @@ E:\QuanLyRapPhim\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csproj.Gene
 E:\QuanLyRapPhim\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.exe.licenses
 E:\QuanLyRapPhim\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.exe
 E:\QuanLyRapPhim\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.pdb
+E:\QuanLyRapPhim\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+E:\QuanLyRapPhim\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+E:\QuanLyRapPhim\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+E:\QuanLyRapPhim\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+E:\QuanLyRapPhim\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+E:\QuanLyRapPhim\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
